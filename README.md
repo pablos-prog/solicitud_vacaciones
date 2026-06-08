@@ -38,7 +38,7 @@ ChatGPT (como herramienta de apoyo para documentación y validación conceptual)
 Estructura del Proyecto
 sistema-gestion-vacaciones/
 │
-├── main.py
+├── chatbot_vacaciones.py
 ├── README.md
 ├── empleados.csv
 ├── solicitudes.csv
@@ -56,7 +56,7 @@ Pasos para ejecutar
 Descargar o clonar el repositorio.
 Abrir una terminal en la carpeta del proyecto.
 Ejecutar el siguiente comando:
-python main.py
+python chatbot_vacaciones.py
 Resultado esperado
 
 El sistema solicitará:
