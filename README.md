@@ -83,3 +83,26 @@ Pablo Soñez
 Trabajo Integrador - Organización Empresarial
 
 Tecnicatura Universitaria en Programación
+Repositorio
+
+Este proyecto fue desarrollado como Trabajo Integrador para la materia Organización Empresarial de la Tecnicatura Universitaria en Programación.
+
+Autor
+
+Pablo Soñez
+
+Código Fuente
+
+El archivo principal del proyecto es:
+
+chatbot_vacaciones.py
+Documentación
+
+La documentación del proyecto incluye:
+
+Modelo BPMN 2.0
+Máquina de Estados
+Diccionario de Datos
+Manual de Usuario
+Casos de Prueba
+Informe Final
